@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.03506ec0.chunk.css",
+    "main.js": "/build/static/js/main.b43227e7.chunk.js",
+    "main.js.map": "/build/static/js/main.b43227e7.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.d3f1eeb0.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.d3f1eeb0.js.map",
+    "static/css/2.5c5863c1.chunk.css": "/build/static/css/2.5c5863c1.chunk.css",
+    "static/js/2.9d5f30a9.chunk.js": "/build/static/js/2.9d5f30a9.chunk.js",
+    "static/js/2.9d5f30a9.chunk.js.map": "/build/static/js/2.9d5f30a9.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.cb0fdf19731938b733ceff187f00d43b.js": "/build/precache-manifest.cb0fdf19731938b733ceff187f00d43b.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/2.5c5863c1.chunk.css.map": "/build/static/css/2.5c5863c1.chunk.css.map",
+    "static/css/main.03506ec0.chunk.css.map": "/build/static/css/main.03506ec0.chunk.css.map",
+    "static/js/2.9d5f30a9.chunk.js.LICENSE.txt": "/build/static/js/2.9d5f30a9.chunk.js.LICENSE.txt",
+    "static/media/aftonbladet.jpg": "/build/static/media/aftonbladet.b7b04264.jpg",
+    "static/media/alarm.mp3": "/build/static/media/alarm.417d63e2.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f1eeb0.js",
+    "static/css/2.5c5863c1.chunk.css",
+    "static/js/2.9d5f30a9.chunk.js",
+    "static/css/main.03506ec0.chunk.css",
+    "static/js/main.b43227e7.chunk.js"
+  ]
+}
