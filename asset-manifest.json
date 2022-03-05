@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://viktorsandberg.com/thunderboard/static/css/main.2f927461.chunk.css",
-    "main.js": "https://viktorsandberg.com/thunderboard/static/js/main.9f811be3.chunk.js",
-    "main.js.map": "https://viktorsandberg.com/thunderboard/static/js/main.9f811be3.chunk.js.map",
+    "main.css": "https://viktorsandberg.com/thunderboard/static/css/main.81916268.chunk.css",
+    "main.js": "https://viktorsandberg.com/thunderboard/static/js/main.2d4cb126.chunk.js",
+    "main.js.map": "https://viktorsandberg.com/thunderboard/static/js/main.2d4cb126.chunk.js.map",
     "runtime-main.js": "https://viktorsandberg.com/thunderboard/static/js/runtime-main.ce6b49ec.js",
     "runtime-main.js.map": "https://viktorsandberg.com/thunderboard/static/js/runtime-main.ce6b49ec.js.map",
     "static/css/2.1603e532.chunk.css": "https://viktorsandberg.com/thunderboard/static/css/2.1603e532.chunk.css",
-    "static/js/2.d4b9cd7f.chunk.js": "https://viktorsandberg.com/thunderboard/static/js/2.d4b9cd7f.chunk.js",
-    "static/js/2.d4b9cd7f.chunk.js.map": "https://viktorsandberg.com/thunderboard/static/js/2.d4b9cd7f.chunk.js.map",
+    "static/js/2.0ad64be8.chunk.js": "https://viktorsandberg.com/thunderboard/static/js/2.0ad64be8.chunk.js",
+    "static/js/2.0ad64be8.chunk.js.map": "https://viktorsandberg.com/thunderboard/static/js/2.0ad64be8.chunk.js.map",
     "index.html": "https://viktorsandberg.com/thunderboard/index.html",
-    "precache-manifest.738a420a39d36ec7fca39061b8da83bc.js": "https://viktorsandberg.com/thunderboard/precache-manifest.738a420a39d36ec7fca39061b8da83bc.js",
+    "precache-manifest.6dc3cf24fcf7e51c82081ce7d41bff5b.js": "https://viktorsandberg.com/thunderboard/precache-manifest.6dc3cf24fcf7e51c82081ce7d41bff5b.js",
     "service-worker.js": "https://viktorsandberg.com/thunderboard/service-worker.js",
     "static/css/2.1603e532.chunk.css.map": "https://viktorsandberg.com/thunderboard/static/css/2.1603e532.chunk.css.map",
-    "static/css/main.2f927461.chunk.css.map": "https://viktorsandberg.com/thunderboard/static/css/main.2f927461.chunk.css.map",
-    "static/js/2.d4b9cd7f.chunk.js.LICENSE.txt": "https://viktorsandberg.com/thunderboard/static/js/2.d4b9cd7f.chunk.js.LICENSE.txt",
+    "static/css/main.81916268.chunk.css.map": "https://viktorsandberg.com/thunderboard/static/css/main.81916268.chunk.css.map",
+    "static/js/2.0ad64be8.chunk.js.LICENSE.txt": "https://viktorsandberg.com/thunderboard/static/js/2.0ad64be8.chunk.js.LICENSE.txt",
     "static/media/aftonbladet.jpg": "https://viktorsandberg.com/thunderboard/static/media/aftonbladet.b7b04264.jpg",
     "static/media/alarm.mp3": "https://viktorsandberg.com/thunderboard/static/media/alarm.417d63e2.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.ce6b49ec.js",
     "static/css/2.1603e532.chunk.css",
-    "static/js/2.d4b9cd7f.chunk.js",
-    "static/css/main.2f927461.chunk.css",
-    "static/js/main.9f811be3.chunk.js"
+    "static/js/2.0ad64be8.chunk.js",
+    "static/css/main.81916268.chunk.css",
+    "static/js/main.2d4cb126.chunk.js"
   ]
 }

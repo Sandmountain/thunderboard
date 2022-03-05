@@ -1,0 +1,38 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "e8e0a5373a48a64b9f43691b215b9b4f",
+    "url": "https://viktorsandberg.com/thunderboard/index.html"
+  },
+  {
+    "revision": "51bcddf2b394cc76c69f",
+    "url": "https://viktorsandberg.com/thunderboard/static/css/2.1603e532.chunk.css"
+  },
+  {
+    "revision": "2f19e213b189a161fce6",
+    "url": "https://viktorsandberg.com/thunderboard/static/css/main.81916268.chunk.css"
+  },
+  {
+    "revision": "51bcddf2b394cc76c69f",
+    "url": "https://viktorsandberg.com/thunderboard/static/js/2.0ad64be8.chunk.js"
+  },
+  {
+    "revision": "910c7c6574fc04f98f718de1f23e9894",
+    "url": "https://viktorsandberg.com/thunderboard/static/js/2.0ad64be8.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "2f19e213b189a161fce6",
+    "url": "https://viktorsandberg.com/thunderboard/static/js/main.2d4cb126.chunk.js"
+  },
+  {
+    "revision": "4aa963ce8df998422180",
+    "url": "https://viktorsandberg.com/thunderboard/static/js/runtime-main.ce6b49ec.js"
+  },
+  {
+    "revision": "b7b04264e9ebeb5db2070261d89ac8ce",
+    "url": "https://viktorsandberg.com/thunderboard/static/media/aftonbladet.b7b04264.jpg"
+  },
+  {
+    "revision": "417d63e2622d4eb1dc9829e87ceef6df",
+    "url": "https://viktorsandberg.com/thunderboard/static/media/alarm.417d63e2.mp3"
+  }
+]);
