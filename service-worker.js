@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://viktorsandberg.com/thunderboard/precache-manifest.6dc3cf24fcf7e51c82081ce7d41bff5b.js"
+  "https://viktorsandberg.com/thunderboard/precache-manifest.d5c68d9071fa8e5b661ac6c0cdfc8d66.js"
 );
 
 self.addEventListener('message', (event) => {
